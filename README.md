@@ -17,5 +17,9 @@ This project is maintained by teamWYXZ:
 - Zack
 
 ## Contact Info
-For info on this project, please contact [Xanthe]
-(mailto:xanthe@example.com) or [Will](mailto:will@example.com).
+
+For information on this project, please contact [Xanthe](mailto:xanthe@example.com).
+
+## Contributing
+To contribute to this project, simply create a pull request on
+this repository and we’ll review it when we can.
