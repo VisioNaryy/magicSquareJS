@@ -18,7 +18,7 @@ This project is maintained by teamWYXZ:
 
 ## Contact Info
 
-For info on this project, please contact [Xanthe](mailto:xanthe@example.com).
+For information on this project, please contact [Xanthe](mailto:xanthe@example.com).
 
 ## Contributing
 To contribute to this project, simply create a pull request on
